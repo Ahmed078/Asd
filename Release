@@ -3,6 +3,6 @@ Label:Asd
 Suite: stable
 Version: 1.0 beta 1
 Codename: ios
-Architectures: iphoneos-arm and ipads-arm
+Architectures: iphoneos-arm
 Components: main
 Description: سورس يحتوي ادوات وهاكات العاب
