@@ -1,0 +1,31 @@
+ new Debian package, version 2.0.
+ size 1040892 bytes: control archive=333 bytes.
+     279 bytes,    11 lines      control              
+ Package: com.laxus.agar.io
+ Name: Agar.io Cheats
+ Depends: mobilesubstrate
+ Architecture: iphoneos-arm
+ Description: Agar.io iGMM Cheats by Laxus for iOSGods.com!
+ Maintainer: iOSGods.com
+ Author: Laxus
+ Section: Tweaks
+ Homepage: https://iosgods.com
+ Version: 2.7.1
+ Installed-Size: 3592
+
+
+new Debian package, version 2.0.
+ size 125248 bytes: control archive=522 bytes.
+     452 bytes,    11 lines      control              
+     138 bytes,     4 lines   *  postinst             #!/bin/sh
+ Package: com.julioverne.cracktool4
+ Name: CrackTool4 (iOS 12)
+ Version: 4.0~beta5
+ Architecture: iphoneos-arm
+ Description: Crack Tweaks on one click
+ Homepage: http://twitter.com/ijulioverne
+ Maintainer: Julio
+ Author: julioverne
+ Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+ Section: Utilities
+ Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
