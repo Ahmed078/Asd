@@ -1,7 +1,3 @@
-new Debian package, version 2.0.
- size 125248 bytes: control archive=522 bytes.
-     452 bytes,    11 lines      control              
-     138 bytes,     4 lines   *  postinst             #!/bin/sh
  Package: com.julioverne.cracktool4
  Name: CrackTool4 (iOS 12)
  Version: 4.0~beta5
@@ -13,3 +9,17 @@ new Debian package, version 2.0.
  Depends: ldid (>= 2.1.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
  Section: Utilities
  Depiction: http://juliovern.github.io/description.html?id=com.julioverne.cracktool4
+
+
+ Package: com.pukgfunne.com
+ Name: Pubg Hack v0.14.0 English
+ Depends: mobilesubstrate
+ Architecture: iphoneos-arm
+ Description: Pubg Hack v0.14.0 Mod Menu by @kgfunn and @7mo0dd9 
+ Maintainer: @kgfunn 
+ Author: @kgfunn and @7mo0dd9
+ Section: hack
+ Depiction: https://joker2gun.github.io/depictions/?p=com.pukgfunne.com
+ Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
+ Version: 0.14.7.2-1+debug
+ Installed-Size: 1160
