@@ -57,3 +57,21 @@ Author: Ahmed078
 Depiction: https://Ahmed078.github.io/Asd/
 Icon: file:///Applications/Cydia.app/Sections/hack2gun.png
 Name: Pubg Hack v0.14.0 Eng
+
+Package: com.Ahmed078.reprovision
+Name: ReProvision
+Version: 0.4.2
+Depends: firmware (>= 9.0)
+Architecture: iphoneos-arm
+Author: Ahmed078
+Depiction: https://Ahmed078.github.io/Asd/
+Priority: extra
+Section: Tweaks
+Filename: pool/main/c/com.hackyouriphone.reprovision/com.hackyouriphone.reprovision_0.4.2_iphoneos-arm.deb
+Size: 10573618
+SHA256: 62741cf554453fcd219cbb4e81f266b88b20136b074e56cb37801447fcc84d19
+SHA1: 2603fab3602061d13ce843e8d358556b66b5a5a7
+MD5sum: 913ea4fcdfff0f8f7662bb99e4dfafce
+Description: Re-sign applications on your device
+Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=reprovision
+Maintainer: Asd <Ahmed078>
