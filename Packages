@@ -75,3 +75,25 @@ MD5sum: 913ea4fcdfff0f8f7662bb99e4dfafce
 Description: Re-sign applications on your device
 Homepage: http://repo.hackyouriphone.org/depiction/depiction.php?filename=reprovision
 Maintainer: Asd <Ahmed078>
+
+Package: com.Ahmed078.appdatamanager
+Version: 1.4.2
+Priority: optional
+Section: Utilities
+Maintainer: Asd
+Depends: firmware (>= 7.0)
+Architecture: iphoneos-arm
+Filename: http://apt.thebigboss.org/repofiles/cydia/debs2.0/appsmanager_1.4.2.deb
+Size: 2478228
+Installed-Size: 9107
+MD5sum: 07930aa76708ebe5376fb09f489fae58
+SHA256: adc861eb2ac147d573ff6dc32f244d2f958b5eb295bbacab9dc9363b6e07da48
+Name: Apps Manager
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+Description: tool to WIPE, BACKUP, RESTORE AppData for installed Apps
+Sponsor: Ahmed078
+Author: TIGI Software
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: https://Ahmed078.github.io/Asd/
+dev: satashi2009
+homepage: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appsmanagerDp
